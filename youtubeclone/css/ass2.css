@@ -1,0 +1,66 @@
+<style>
+  p{
+    font-family: Verdana;
+    margin:0px;
+  }
+.head{
+  font-weight: bold;
+  font-size: 25px;
+}
+.beginner{
+  color:rgb(96, 96, 96);
+  font-size: 25px;
+  margin-top: 4px;
+}
+.skills{
+  margin-top: 65px;
+  font-size: 22px;
+  width: 424px;
+}
+.button1 {
+    padding: 16px 19px;
+    margin-top: 33px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    font-size: 17px;
+    border-radius: 13px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+.button1:hover{
+  opacity:0.7;
+}
+.button1:active{
+  opacity: 0.5;
+}
+.cc{
+  margin-top: 70px;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: Arial;
+}
+.first{
+  color:rgb(96, 96, 96);
+  font-size: 17px;
+  font-family: Arial;
+  margin-left: 8px;
+
+}
+.cc-1{
+  margin-top: 11px;
+  font-size: 17px;
+  width: 588px;
+  font-family: Arial;
+}
+.cc-2{
+  margin-top: 25px;
+  font-size: 17px;
+  width: 595px;
+  font-family: Arial;
+}
+.second{
+  color: skyblue;
+}
+  </style>

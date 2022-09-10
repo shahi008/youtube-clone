@@ -1,0 +1,47 @@
+<style>
+  p{
+    font-family: Arial;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+.text-1{
+  font-size: 18px;
+  
+  font-weight: bold;
+  width: 280px;
+ 
+}
+.views{
+  color: rgb(96, 96, 96);
+  margin-top: 8px;
+  font-size: 14px;
+}
+  
+.author{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  
+  margin-top: 24px;
+}
+.desc{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-top: 25px;
+  width:280px;
+  line-height: 18px;
+}
+.click{
+  margin-top: 150px;
+  background-color: #e34140;
+  text-align: center;
+  color:white;
+  padding:16px 0px;
+}
+.under:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+  </style>
+
